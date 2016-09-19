@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: Maksym_Pinchuk
+Build-Jdk: 1.8.0_60
+
